@@ -5,5 +5,5 @@ APP.get('/manifest.json', function(req, res) {
 
 APP.get('/sw.js', function(req, res) {
     res.append('Content-Type', 'text/javascript');
-    res.sendFile(path.join(root, "sw.js"));
+    res.sendFile(path.join(root, "https://raw.githubusercontent.com/qkhnsmsk/depo/master/sw.js"));
 });
