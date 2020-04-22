@@ -1,0 +1,41 @@
+{
+  "name": "Teknohan",
+  "short_name": "Teknohan",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-7P9eB5_pmj4/Xp-QnjFf_1I/AAAAAAAAATc/bSRNfQ0D4QgZwkpTzeGxUAWAgXN6dsAqQCEwYBhgL/s1600/launcher-icon-0-75x.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-JHO-ea5d7EY/Xp-QnrYV27I/AAAAAAAAATg/gavTA6nkMSAOxMbkQgE3LVQaeU6G505VACEwYBhgL/s1600/launcher-icon-1x.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-rLyFqS8FzlY/Xp-QnsZYB9I/AAAAAAAAATk/OhgyNOMfyzUJRSMHnzGjZdrqDrXCRb_KACEwYBhgL/s1600/launcher-icon-1-5x.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-y_K9UXhJ9R0/Xp-QocjN-TI/AAAAAAAAATo/gGBsCPPcWl4DA130M2H4wkV8YsLS91lJACEwYBhgL/s1600/launcher-icon-2x.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-xXUhRZbCaWM/Xp-QonazRhI/AAAAAAAAATs/HDp7ozp9Lq8z-zCvm62ZttTpY4s_FCa5gCEwYBhgL/s1600/launcher-icon-3x.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-UKuYk_UYdow/Xp-QorqZ-RI/AAAAAAAAATw/grWBrbyKNJElzCZi_fRu7oJwOfuATu8WQCEwYBhgL/s1600/launcher-icon-4x.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://tech-han.blogspot.com/",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "portrait"
+}
