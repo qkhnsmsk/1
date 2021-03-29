@@ -1,0 +1,1 @@
+//<![CDATA[function bp_thumbnail_resize(e,t){var n=620;var r=330;image_tag='<img width="'+n+'" height="'+r+'" src="'+e.replace("/s72-c-k-no/","/w"+n+"-h"+r+"-c/")+'" alt="'+t.replace(/"/g,"")+'" title="'+t.replace(/"/g,"")+'"/>';if(t!="")return image_tag;else return""}//]]>
